@@ -23,7 +23,7 @@ Results
 The project delivers a live geo visualization dashboard with a variety of dropdown options for users. It dynamically updates to reflect the latest data from the MySQL database. Users can access it via web browsers, obtaining valuable insights from the PhonePe Pulse GitHub repository.
 
 Dataset
-[(https://github.com/PhonePe/pulse#readme)](Data Link)
+https://github.com/PhonePe/pulse#readme (Data Link)
 
 Learning Outcomes
 Data Extraction and Processing: Clone GitHub, preprocess data with Pandas.
